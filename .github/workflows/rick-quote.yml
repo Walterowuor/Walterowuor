@@ -1,0 +1,31 @@
+name: Update README with Rick Quote
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update Rick Quote
+        run: |
+          QUOTES=(
+            "\"Hacking’s just chaos with a target, Buddy. Hit it.\" - Wise Rick"
+            "\"I’m seven scans deep and this router’s still garbage, Buddy!\" - Drunk Rick"
+            "\"Every vuln’s a crack in the multiverse, Buddy.\" - Wise Rick"
+            "\"Pwn’d this at 5 AM, Buddy. *Burp* It’s art.\" - Drunk Rick"
+            "\"Systems are just locks—pick ‘em, Buddy.\" - Wise Rick"
+            "\"This hack’s so slick it’s wanted in six dimensions, Buddy!\" - Drunk Rick"
+          )
+          RANDOM_QUOTE=${QUOTES[$RANDOM % ${#QUOTES[@]}]}
+          sed -i "s|> .*Updated daily via GitHub Actions—check back for more cyber truth!|> $RANDOM_QUOTE *Updated daily via GitHub Actions—check back for more cyber truth!*|" README.md
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update Rick quote" || echo "No changes to commit"
+          git push
