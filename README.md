@@ -1,28 +1,30 @@
-💀 DarkRickOtto - Cyber Outlaw of the Void
-Burp I’m Master Otto, the slickest damn hacker in this neon-drenched multiverse, Buddy. I wield Python, Linux, and hacking tools like a spiked bat, cracking systems and rewriting reality with a flask in hand. This ain’t just code—it’s cyber warfare. Wubba lubba dub dub! 😎
-🛠️ My Hacking Arsenal
+💀 CyberRickOtto - Pwn Lord of the Dark Web
+Burp I’m Master Otto, the baddest cyber outlaw in this neon-soaked multiverse, Buddy. I swing Python, Kali Linux, and hacking tools like a spiked bat, cracking networks and owning reality with a flask in one hand and nmap in the other. This ain’t code—it’s cyber domination. Wubba lubba dub dub! 😎
+🛠️ My Cyber Arsenal
 
-🔥 Hacks That Pwn the Multiverse
+🔥 Hacks That Nuke Dimensions
 
-DarkPacketSlicer: Python sniffer that rips through network traffic like a hot knife. Packets fear me, Buddy.
-ChaosSysAdmin: Bash scripts to lock down Linux servers. Firewalls are my art, security’s my soul.
-ShadowWebScanner: Python script to hunt web vulns with nmap and dirsearch. The web’s just a playground, Buddy.
+SkullPacketSlicer: Python sniffer that tears through packets like a hot blade. Networks bleed neon, Buddy.
+VoidSysAdmin: Bash scripts to harden Kali servers. Security’s my middle finger to the void.
+PhantomWebKiller: Python script to scan web vulns with nmap and dirsearch. The web’s my playground, Buddy—pwn it.
 
-⏰ My Hacking Grind
+🏆 My Hacker Achievements
+
+⏰ My Cyber Grind
 
 📊 GitHub Stats
 
-🧠 Rick’s Daily Hack
+🧠 Rick’s Daily Pwn
 
-Updated daily via GitHub Actions—check back for more cyber wisdom!
+Updated daily via GitHub Actions—check back for more cyber truth!
 
-🌌 Hack Into My Dimension
+🌌 Crack Into My Dimension
 
-📩 Email: otto@darkhacker.com
-🐦 X: @DarkRickOtto
+📩 Email: otto@cyberhacker.com
+🐦 X: @CyberRickOtto
 💼 LinkedIn: Otto Sanchez
 
-🧬 Cyber Truth
-I once cracked a hash with Hashcat while my Kali rig was half-fried in a storm. Hacking’s a war, Buddy—every exploit’s a trophy.
+🧬 Cyber Gospel
+I once pwn’d a server with Hashcat while my Kali rig was dodging a DDoS. Hacking’s a bloodsport, Buddy—every cracked hash is a crown.
 
-“Hacking’s just finding the universe’s weak spots, Buddy. Exploit ‘em.”
+“Hacking’s just ripping holes in reality’s firewall, Buddy. Keep it neon.”
