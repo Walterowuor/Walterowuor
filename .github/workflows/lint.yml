@@ -1,0 +1,36 @@
+name: Lint Python Code
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11' # Latest stable version for Kali compatibility
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pylint
+
+      - name: Create pylint config
+        run: |
+          echo "[MASTER]
+          disable=C0114,C0115,C0116 # Ignore missing docstrings for quick pentest scripts
+          max-line-length=120 # Allow longer lines for readability
+          ignore-patterns=test_.*.py # Skip test files
+          " > .pylintrc
+
+      - name: Run pylint
+        run: |
+          find . -type f -name "*.py" ! -path "./venv/*" ! -path "./.git/*" | xargs pylint --rcfile=.pylintrc || true
