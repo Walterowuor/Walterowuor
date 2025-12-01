@@ -1,64 +1,27 @@
-# 🦅 Walter Owuor [Agak-Soja]
+# Walter Owuor
 
-Predators don’t boast.  
-They watch.  
-They wait.  
-And when they move, the world realizes it was already too late.
+**There are no friends here. Only assets, liabilities, and corpses.**
 
-I don’t chase status in this field —  
-I *study* it, I *undermine* it, and I *become* the thing others measure themselves against.
+You are now inside my repository.  
+Most who enter do not leave with the same illusions they arrived with.
 
-My work is quiet.  
-My progress is constant.  
-My presence is deliberate — the kind that doesn’t need volume to command a room.
+I do not collaborate.  
+I do not contribute for karma.  
+I do not tolerate pull requests from the weak, the noisy, or the sentimental.
 
----
+Everything pushed here has a purpose:  
+- to expose fragility  
+- to weaponize knowledge  
+- to remind systems—and the people who believe in them—that nothing is sacred, nothing is secure, and no one is untouchable.
 
-## ⚔️ How I Operate  
-Patience of a hunter.  
-Precision of an engineer.  
-Intent of someone who understands that power comes from knowledge,  
-and knowledge comes from taking apart what others fear to touch.
+If you are here to learn, learn fast.  
+If you are here to copy, understand you are borrowing tools you may not survive using.  
+If you are here to moralize, close the tab. Mercy is a luxury I do not trade in.
 
-Cybersecurity isn’t my hobby.  
-It’s the landscape I stalk.
+This is not a playground.  
+This is a ledger.
 
----
+**Enter at your own risk.**  
+I keep receipts.
 
-## 🧩 Domains Under My Control
-- Penetration Testing & Recon Architecture  
-- Python / Bash / Deep System Understanding  
-- Linux Internals & Behavioral Mapping  
-- Automation designed for efficiency, not applause  
-- Strategic problem dismantling
-
----
-
-## 🐺 Current Constructions  
-*(Add repos as your territory expands)*  
-- Tools that turn systems inside out  
-- Recon utilities crafted with surgical calm  
-- CTF writeups that read like autopsies of complexity
-
----
-
-## 🧊 Philosophy  
-True power doesn’t rush.  
-It circles.  
-It observes.  
-It chooses the exact moment to make its presence undeniable.
-
-Frankly speaking, I don’t walk into rooms to compete.  
-I walk in to set the temperature.
-
----
-
-## 📞 Contact  
-- GitHub: **[Walterowuor](https://github.com/Walterowuor)**
-
----
-
-### 👁 Final Word  
-I don’t need to be seen to be felt.  
-That’s what apex predators understand…  
-and what everyone else learns the hard way.
+– Walter Owuor  
