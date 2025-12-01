@@ -1,31 +1,64 @@
-💀 CyberSud0tto - Pwn Lord
-Burp I’m Master Otto, the baddest cyber outlaw in this neon-soaked multiverse, Buddy. I swing Python, Kali Linux, and hacking tools like a spiked bat, cracking networks and owning reality with a burp in one hand and nmap in the other. This ain’t code—it’s cyber domination. Wubba lubba dub dub! 😎
-**🛠️ My Cyber Arsenal
-**
-🔥 Hacks That Nuke Dimensions
+# 🦅 Walter Owuor [Agak-Soja]
 
-SkullPacketSlicer: Python sniffer that tears through packets like a hot blade. Networks bleed neon, Buddy.
-VoidSysAdmin: Bash scripts to harden Kali servers. Security’s my middle finger to the void.
-PhantomWebKiller: Python script to scan web vulns with nmap and dirsearch. The web’s my playground, Buddy—pwn it.
+Predators don’t boast.  
+They watch.  
+They wait.  
+And when they move, the world realizes it was already too late.
 
-🏆 My Hacker Achievements
+I don’t chase status in this field —  
+I *study* it, I *undermine* it, and I *become* the thing others measure themselves against.
 
-⏰ My Cyber Grind
+My work is quiet.  
+My progress is constant.  
+My presence is deliberate — the kind that doesn’t need volume to command a room.
 
-📊 GitHub Stats
+---
 
-🧠 Rick’s Daily Pwn
+## ⚔️ How I Operate  
+Patience of a hunter.  
+Precision of an engineer.  
+Intent of someone who understands that power comes from knowledge,  
+and knowledge comes from taking apart what others fear to touch.
 
-Updated daily via GitHub Actions—check back for more cyber truth!
+Cybersecurity isn’t my hobby.  
+It’s the landscape I stalk.
 
-🌌 Crack Into My Dimension
+---
 
-📩 Email: otto@gofetch.com
-🐦 X: @duck!
-💼 LinkedIn: Guess!
+## 🧩 Domains Under My Control
+- Penetration Testing & Recon Architecture  
+- Python / Bash / Deep System Understanding  
+- Linux Internals & Behavioral Mapping  
+- Automation designed for efficiency, not applause  
+- Strategic problem dismantling
 
-🧬 Cyber Gospel
-I once crac’d a server passwd with Hashcat while my Kali rig was heating like your saucepan. Hacking’s a bloodsport, Buddy—every cracked hash is a crown.
+---
 
-“Hacking’s just ripping holes in reality’s firewall, Buddy. Keep it neon.”
-YouSuck!!!!!!!
+## 🐺 Current Constructions  
+*(Add repos as your territory expands)*  
+- Tools that turn systems inside out  
+- Recon utilities crafted with surgical calm  
+- CTF writeups that read like autopsies of complexity
+
+---
+
+## 🧊 Philosophy  
+True power doesn’t rush.  
+It circles.  
+It observes.  
+It chooses the exact moment to make its presence undeniable.
+
+Frankly speaking, I don’t walk into rooms to compete.  
+I walk in to set the temperature.
+
+---
+
+## 📞 Contact  
+- GitHub: **[Walterowuor](https://github.com/Walterowuor)**
+
+---
+
+### 👁 Final Word  
+I don’t need to be seen to be felt.  
+That’s what apex predators understand…  
+and what everyone else learns the hard way.
